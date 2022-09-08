@@ -6,7 +6,7 @@ function Patients() {
   return (
     <div className="PatientsPanel">
       <HowToRegIcon className="PatientsIcon" />
-      <div className="PatientsText"> Patients Treated </div>
+      <div className="PatientsText"> Patient Treated </div>
       <div className="PatientsCount"> 3000 </div>
     </div>
   )
