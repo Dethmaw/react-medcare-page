@@ -1,0 +1,247 @@
+.GraphPanel {
+  position: absolute;
+  width: 692px;
+  height: 341.07px;
+  left: 410px;
+
+  background: #ffffff;
+  box-shadow: 0px 4.07454px 24.4472px -1.01863px rgba(0, 0, 0, 0.11);
+  backdrop-filter: blur(40.7454px);
+  /* Note: backdrop-filter has minimal browser support */
+
+  border-radius: 20px;
+}
+
+.ThisMonth {
+  position: absolute;
+  width: 95.62px;
+  height: 28.76px;
+  left: 50px;
+  top: 48px;
+
+  background: #f4f7fe;
+  border-radius: 5.44178px;
+}
+
+.ThisMonthText {
+  position: absolute;
+  width: 57.53px;
+  height: 10.88px;
+  left: 27.99px;
+  top: 9.33px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10.8836px;
+  line-height: 19px;
+  /* or 171% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #a3aed0;
+}
+
+.ThisMonthIcon {
+  position: absolute;
+  width: 11.66px;
+  height: 12.83px;
+  left: 2.49px;
+  top: 1.36px;
+
+  color: #a3aed0;
+}
+
+.TotalEarning {
+  position: absolute;
+  width: 116.46px;
+  height: 31.01px;
+  left: 50.24px;
+  top: 98.53px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26.4315px;
+  line-height: 33px;
+  /* or 124% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #2b3674;
+}
+
+.TotalEarningText {
+  position: absolute;
+  width: 99.08px;
+  height: 17.05px;
+  left: 50.24px;
+  top: 127.21px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10.8836px;
+  line-height: 19px;
+  /* or 171% */
+
+  letter-spacing: -0.02em;
+
+  color: #a3aed0;
+}
+
+.OnTrack {
+  position: absolute;
+  width: 60.84px;
+  height: 10.85px;
+  left: 67.62px;
+  top: 164.42px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12.4384px;
+  line-height: 22px;
+  /* or 175% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #34a853;
+}
+
+.GraphCheckIcon {
+  position: absolute;
+  width: 12.44px;
+  height: 12.44px;
+  left: 43.24px;
+  top: 157.64px;
+
+  color: #34a853;
+  border-radius: 35.7603px;
+}
+
+.SEP {
+  position: absolute;
+  left: 177.16px;
+  top: 257.9px;
+  width: 41.79px;
+  height: 17.1px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 9.32877px;
+  line-height: 16px;
+  /* or 167% */
+
+  text-align: center;
+  letter-spacing: -0.02em;
+
+  color: #a3aed0;
+}
+
+.OCT {
+  position: absolute;
+  left: 253.21px;
+  top: 257.9px;
+  width: 41.79px;
+  height: 17.1px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 9.32877px;
+  line-height: 16px;
+  /* or 167% */
+
+  text-align: center;
+  letter-spacing: -0.02em;
+
+  color: #a3aed0;
+}
+
+.NOV {
+  position: absolute;
+  left: 329.26px;
+  top: 257.9px;
+  width: 41.79px;
+  height: 17.1px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 9.32877px;
+  line-height: 16px;
+  /* or 167% */
+
+  text-align: center;
+  letter-spacing: -0.02em;
+
+  color: #a3aed0;
+}
+
+.DEC {
+  position: absolute;
+  left: 405.31px;
+  top: 257.9px;
+  width: 41.79px;
+  height: 17.1px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 9.32877px;
+  line-height: 16px;
+  /* or 167% */
+
+  text-align: center;
+  letter-spacing: -0.02em;
+
+  color: #a3aed0;
+}
+
+.JAN {
+  position: absolute;
+  left: 481.36px;
+  top: 257.9px;
+  width: 41.79px;
+  height: 17.1px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 9.32877px;
+  line-height: 16px;
+  /* or 167% */
+
+  text-align: center;
+  letter-spacing: -0.02em;
+
+  color: #a3aed0;
+}
+
+.FEB {
+  position: absolute;
+  left: 557.41px;
+  top: 257.9px;
+  width: 41.79px;
+  height: 17.1px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 9.32877px;
+  line-height: 16px;
+  /* or 167% */
+
+  text-align: center;
+  letter-spacing: -0.02em;
+
+  color: #a3aed0;
+}

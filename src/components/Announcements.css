@@ -1,0 +1,151 @@
+.AnnouncementsPanel {
+  position: absolute;
+  width: 495px;
+  height: 337px;
+  left: 1171px;
+
+  background: #ffffff;
+  box-shadow: 0px 4.07454px 24.4472px -1.01863px rgba(0, 0, 0, 0.11);
+  backdrop-filter: blur(40.7454px);
+  /* Note: backdrop-filter has minimal browser support */
+
+  border-radius: 20px;
+}
+
+.AnnouncementsText {
+  position: absolute;
+  width: 201px;
+  height: 29px;
+  left: 46px;
+  top: 26px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height, or 119% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #4e4e4e;
+}
+
+.SeeMoreAnnouncement {
+  position: absolute;
+  width: 66px;
+  height: 29px;
+  left: 354px;
+  top: 290px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.0372px;
+  line-height: 29px;
+  /* identical to box height, or 204% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #24306e;
+}
+
+.SeeMoreAnnouncement:hover {
+  cursor: pointer;
+}
+
+.AnnouncementRow {
+  position: absolute;
+  width: 422px;
+  height: 51px;
+  left: 33px;
+  list-style-type: none;
+  background: #ffffff;
+  box-shadow: 0px 4.07454px 24.4472px -1.01863px rgba(0, 0, 0, 0.11);
+  backdrop-filter: blur(40.7454px);
+  /* Note: backdrop-filter has minimal browser support */
+
+  border-radius: 20px;
+}
+
+.AnnouncementRow[id="0"] {
+  top: 83px;
+}
+
+.AnnouncementRow[id="1"] {
+  top: 152px;
+}
+
+.AnnouncementRow[id="2"] {
+  top: 221px;
+}
+
+.AnnouncementRow[id="3"] {
+  top: 290px;
+}
+
+.AnnouncementRow[id="4"] {
+  top: 359px;
+}
+
+.AnnouncementRow[id="5"] {
+  top: 428px;
+}
+
+.Announcement {
+  position: absolute;
+  width: 283px;
+  height: 29px;
+  left: 88px;
+  top: 11px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.0372px;
+  line-height: 29px;
+  /* identical to box height, or 204% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #404040;
+}
+
+.AnnouncementAvatar {
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  left: 25px;
+  top: 7px;
+}
+
+.SeeLessAnnouncement {
+  position: absolute;
+  width: 66px;
+  height: 29px;
+  left: 354px;
+  top: 490px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.0372px;
+  line-height: 29px;
+  /* identical to box height, or 204% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #24306e;
+}
+
+.SeeLessAnnouncement:hover {
+  cursor: pointer;
+}

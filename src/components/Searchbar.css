@@ -1,0 +1,74 @@
+.SearchbarPanel {
+  position: absolute;
+  width: 422px;
+  height: 61px;
+  left: 1266px;
+  top: 34px;
+
+  background: #ffffff;
+  box-shadow: 14px 17px 40px 4px rgba(112, 144, 176, 0.08);
+  border-radius: 30px;
+}
+
+.SearchField {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  width: 214px;
+  height: 41px;
+  background: #f4f7fe;
+  border-radius: 49px;
+}
+
+.SearchIcon {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 15px;
+  top: 10px;
+}
+
+.SearchInput {
+  position: absolute;
+  width: 162px;
+  height: 21px;
+  left: 42px;
+  top: 10px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  border: none;
+  border-width: 0;
+  outline: none;
+  /* identical to box height, or 143% */
+
+  letter-spacing: -0.02em;
+  background: #f4f7fe;
+  color: #8f9bba;
+}
+
+.NotificationsIcon {
+  position: absolute;
+  left: 248.41px;
+  top: 20.5px;
+}
+
+.MoonIcon {
+  position: absolute;
+  left: 288.96px;
+  top: 20.5px;
+}
+
+.InfoIcon {
+  position: absolute;
+  left: 328px;
+  top: 20.5px;
+}
+
+.Avatar {
+  position: absolute;
+  left: 370px;
+  top: 11px;
+}

@@ -1,0 +1,37 @@
+.WelcomePanel {
+  position: absolute;
+  width: 477px;
+  height: 29px;
+  left: 435px;
+  top: 68px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 29px;
+  /* identical to box height, or 115% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #4e4e4e;
+}
+
+.Welcome {
+  display: inline-block;
+  color: #4E4E4E;
+}
+
+.Name {
+  display: inline-block;
+  color: #24306E;
+  padding-left: 10px;
+}
+
+.Title {
+  display: inline-block;
+  color: #34A853;
+  padding-left: 10px;
+}

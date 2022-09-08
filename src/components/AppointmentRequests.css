@@ -1,0 +1,291 @@
+.AppointmentPanel {
+  position: absolute;
+  width: 692px;
+  height: 341.07px;
+  left: 410px;
+  top: 321px;
+
+  background: #ffffff;
+  box-shadow: 0px 4.07454px 24.4472px -1.01863px rgba(0, 0, 0, 0.11);
+  backdrop-filter: blur(40.7454px);
+  /* Note: backdrop-filter has minimal browser support */
+
+  border-radius: 20px;
+}
+
+.AppointmentText {
+  position: absolute;
+  width: 287px;
+  height: 29px;
+  left: 51px;
+  top: 19px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 29px;
+  /* identical to box height, or 115% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #4e4e4e;
+}
+
+.SeeMore {
+  position: absolute;
+  left: 589px;
+  top: 304px;
+
+  width: 66px;
+  height: 29px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.0372px;
+  line-height: 29px;
+  /* identical to box height, or 204% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #24306e;
+}
+
+.SeeMore:hover {
+  cursor: pointer;
+}
+
+.ClientName {
+  position: absolute;
+  width: 43px;
+  height: 29px;
+  left: 146px;
+  top: 74px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.0372px;
+  line-height: 29px;
+  /* identical to box height, or 204% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #919191;
+}
+
+.Disease {
+  position: absolute;
+  width: 43px;
+  height: 29px;
+  left: 315px;
+  top: 74px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.0372px;
+  line-height: 29px;
+  /* identical to box height, or 204% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #919191;
+}
+
+.Date {
+  position: absolute;
+  width: 43px;
+  height: 29px;
+  left: 467px;
+  top: 74px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.0372px;
+  line-height: 29px;
+  /* identical to box height, or 204% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #919191;
+}
+
+.Approval {
+  position: absolute;
+  width: 43px;
+  height: 29px;
+  left: 583px;
+  top: 74px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.0372px;
+  line-height: 29px;
+  /* identical to box height, or 204% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #919191;
+}
+
+.Client {
+  position: absolute;
+  width: 664px;
+  height: 61px;
+  left: 18px;
+  list-style-type: none;
+  background: #ffffff;
+  box-shadow: 14px 17px 40px 4px rgba(112, 144, 176, 0.08);
+  border-radius: 30px;
+}
+
+.Client#a {
+  top: 103px;
+}
+
+.Client#b {
+  top: 169px;
+}
+
+.Client#c {
+  top: 235px;
+}
+
+.Client#d {
+  top: 301px;
+}
+
+.Client#e {
+  top: 367px;
+}
+
+.Client#f {
+  top: 435px;
+}
+
+.NameOf {
+  position: absolute;
+  width: 81px;
+  height: 29px;
+  left: 107px;
+  top: 21px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.0372px;
+  line-height: 29px;
+  /* identical to box height, or 204% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #24306e;
+}
+
+.DiseaseOf {
+  position: absolute;
+  width: 73px;
+  height: 29px;
+  left: 281px;
+  top: 21px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.0372px;
+  line-height: 29px;
+  /* identical to box height, or 204% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #24306e;
+}
+
+.DateOf {
+  position: absolute;
+  width: 36px;
+  height: 29px;
+  left: 449px;
+  top: 21px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.0372px;
+  line-height: 29px;
+  /* identical to box height, or 204% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #24306e;
+}
+
+.DoneIcon {
+  position: absolute;
+  left: 567px;
+  top: 19px;
+
+  color: #34a853;
+}
+
+.CancelIcon {
+  position: absolute;
+  left: 606.39px;
+  top: 18.39px;
+
+  color: #b51b1b;
+}
+
+.ClientAvatar {
+  position: absolute;
+  left: 33px;
+  top: 11px;
+}
+
+.SeeLess {
+  position: absolute;
+  left: 589px;
+  top: 512px;
+
+  width: 66px;
+  height: 29px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.0372px;
+  line-height: 29px;
+  /* identical to box height, or 204% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #24306e;
+}
+
+.SeeLess:hover {
+  cursor: pointer;
+}

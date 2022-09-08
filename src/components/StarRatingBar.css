@@ -1,0 +1,70 @@
+.RatingPanel {
+  position: absolute;
+  width: 312px;
+  height: 100.07px;
+  left: 779px;
+  top: 166px;
+
+  background: #ffffff;
+  box-shadow: 0px 4.07454px 24.4472px -1.01863px rgba(0, 0, 0, 0.11);
+  backdrop-filter: blur(40.7454px);
+
+  border-radius: 20px;
+}
+
+.RatingText {
+  position: absolute;
+  width: 96px;
+  height: 29px;
+
+  left: 110px;
+  top: 17px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 29px;
+  /* identical to box height, or 115% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+
+  color: #404040;
+}
+
+.StarIcon {
+  position: absolute;
+  width: 50px;
+  height: 29px;
+
+  left: 25px;
+  top: 40.12px;
+}
+
+.Rating {
+  position: absolute;
+
+  left: 106.53px;
+  top: 55.15px;
+}
+
+.RatingCount {
+  position: absolute;
+  width: 40px;
+  height: 23px;
+  left: 232.29px;
+  top: 55.15px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15.2727px;
+  line-height: 23px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #404040;
+}
